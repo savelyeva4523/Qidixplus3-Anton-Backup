@@ -1,0 +1,9 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+800_480.tft.bak
+*.bkp
+*.csv
+*.zip
